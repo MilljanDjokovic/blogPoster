@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "id": 2,
+      "title": "JS",
+      "body": "JavaScript is a high-level programming language that follows the ECMAScript standard. It was originally designed as a scripting language for websites but became widely adopted as a general-purpose programming language, and is currently the most popular programming language in use. JavaScript is usually found running in a web browser as interactive or automated content, ranging from popup messages and live clocks to large web applications. JavaScript is also commonly used in server-side programming through platforms like Node.js, or embedded in non-JavaScript applications where the base programming language lacks the high-level functionality that JavaScript offers.",
+      "likes": 45
+    },
+    {
+      "id": 3,
+      "title": "Mandalorian",
+      "body": "The travels of a lone bounty hunter in the outer reaches of the galaxy, far from the authority of the New Republic.",
+      "likes": 30
+    },
+    {
+      "title": "The Wheel of Time",
+      "body": "Set in a high fantasy world where magic exists, but only some can access it, a woman named Moiraine crosses paths with five young men and women. This sparks a dangerous, world-spanning journey. Based on the book series by Robert Jordan.",
+      "likes": 0,
+      "id": 4
+    }
+  ]
+}
